@@ -7,8 +7,8 @@ package cache;
 import java.util.ArrayList;
 /**
  *
- * @author Karine Pestana Ramos
- *         Geovana Silveira
+ * @author Geovana Silveira 
+ *         Karine Pestana
  */
 
 //Classe que deve ser usada na classe Simulador para inicializar as Caches
