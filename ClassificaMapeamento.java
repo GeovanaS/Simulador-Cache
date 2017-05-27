@@ -11,8 +11,7 @@ import java.util.Random;
 /**
  *
  * @author Geovana Silveira
- 	   Karine Pestana 
- *         
+ *	   Karine Pestana          
  */
 
 //Classe usada junto com a classe Mapeamento
