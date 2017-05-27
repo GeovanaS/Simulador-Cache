@@ -7,8 +7,8 @@ package cache;
 
 /**
  *
- * @author Karine Pestana Ramos
- *         Geovana Silveira
+ * @author Geovana Silveira
+ *         Karine Pestana        
  */
 
 //Estatisticas referente a cada cache
