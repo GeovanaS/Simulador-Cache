@@ -12,8 +12,7 @@ import java.util.Scanner;
 /**
  *
  * @author  Geovana Silveira
- 	    Karine Pestana
- *        
+ *	    Karine Pestana        
  */
 
 //Classe principal que vai "unir" todas as outras
