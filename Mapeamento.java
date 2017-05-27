@@ -9,8 +9,8 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Karine Pestana Ramos
- *         Geovana Silveira
+ * @author Geovana Silveira 
+ *         Karine Pestana
  */
 
 //Classe com todos os métodos estáticos e é usada com a classe ClassificaMapeamento
