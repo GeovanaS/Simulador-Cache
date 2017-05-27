@@ -6,8 +6,9 @@
 package cache;
 /**
  *
- * @author Karine Pestana Ramos
- *         Geovana Silveira
+ * @author Geovana Silveira
+ 	   Karine Pestana
+ *        
  */
 
 //Classe que representa o Bloco da Cache
