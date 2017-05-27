@@ -11,8 +11,8 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Karine Pestana
- *         Geovana Silveira
+ * @author  Geovana Silveira 
+ *          Karine Pestana
  */
 public class ManipulacaoArquivos {
     
