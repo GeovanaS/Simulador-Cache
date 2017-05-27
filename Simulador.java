@@ -11,8 +11,9 @@ import java.util.Scanner;
 
 /**
  *
- * @author Karine Pestana
- *         Geovana Silveira
+ * @author  Geovana Silveira
+ 	    Karine Pestana
+ *        
  */
 
 //Classe principal que vai "unir" todas as outras
@@ -75,11 +76,7 @@ public class Simulador {
                 System.out.println("\nEntre com o nsets, nbits e assoc para a cache L2: ");        
                 ModCacheL2.setNsets(entrada.nextInt());      
                 ModCacheL2.setNbits(entrada.nextInt());  
-                ModCacheL2.setAssoc(entrada.nextInt());
-                //arquivo = null;
-                //entrada.next(arquivo);
-                //arquivo = nomeArquivo;
-                // arquivo = "C:/Users/Geovana/Downloads/SimuladorCache1/SimuladorCache/src/cache/arqTexto1_rw_10.txt";               
+                ModCacheL2.setAssoc(entrada.nextInt());           
                
                 System.out.println("Digite o nome do arquivo:");
                 arquivo = entrada.next();
@@ -113,14 +110,12 @@ public class Simulador {
                     
                     System.out.println("Digite o nome do arquivo:");
                     arquivo = entrada.next();
-             //       arquivo = "C:/Users/Geovana/Downloads/SimuladorCache1/SimuladorCache/src/cache/arqTexto1_rw_10k.dat";                   
- 
+
              }       
                else{
                    System.out.println("\nArgumento inválido!\nEntre com a escolha novamente:");
                    aux = entrada.nextInt();
                }
-           //acho que essa condiÃ§Ã£o tÃ¡ errada! pensar melhor amanhÃ£!
        } while (!(aux == 0 || aux == 1));    
        
       //Cria as trÃªs caches
